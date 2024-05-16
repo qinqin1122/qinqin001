@@ -10,5 +10,5 @@ switch ($score) {
         echo "合格";
         break;
     default:
-        echo "不合格";
+        echo "不合格"
 }
